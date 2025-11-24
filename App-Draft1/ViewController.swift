@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("Changes")
         print("Change 2")
+        print("Change 3")
     }
 
 
